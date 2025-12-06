@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/portfolio/",
   title: "Portfolio",
   description: "実績とスキルの紹介",
   themeConfig: {
