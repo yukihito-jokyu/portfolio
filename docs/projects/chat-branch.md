@@ -15,7 +15,8 @@
 
 ## 動作デモ
 
-<video controls width="100%" src="/projects/chat-branch/chat-branch.mov"></video>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AG1Chur-mms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## 技術スタック
 
