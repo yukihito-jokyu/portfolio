@@ -40,10 +40,8 @@
 ![システム構成図](/projects/DLab/DLab-Board.jpg)
 
 ### デモ映像
-<video controls width="100%" muted>
-  <source src="/projects/DLab/DLab.mp4" type="video/mp4">
-  お使いのブラウザは動画タグをサポートしていません。
-</video>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/zl20d-L9-g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 技術スタック
 
