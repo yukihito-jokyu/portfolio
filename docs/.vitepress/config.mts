@@ -19,6 +19,15 @@ export default defineConfig({
         items: [
           { text: "プロフィール", link: "/about" },
           {
+            text: "プロンプト集",
+            link: "/prompts",
+            items: [
+              { text: "make-prompts", link: "/prompts/make-prompts" },
+              { text: "research-axis-condition-design", link: "/prompts/research-axis-condition-design" },
+            ],
+            collapsed: true,
+          },
+          {
             text: "制作実績",
             link: "/projects",
             items: [
